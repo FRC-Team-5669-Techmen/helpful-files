@@ -100,7 +100,7 @@ file name. Once you press ctrl+s, this should go away.
 ctrl+s, it only saves the changes to your computer. To update the files in the
 repository, you must describe your changes with a *commit* and then *push* the
 commit to the repository. To do this, right-click your project and select *Team* 
-> *Commit...*. A view will appear called *Git Staging*. It might be in an 
+\> *Commit...*. A view will appear called *Git Staging*. It might be in an 
 awkward spot, so feel free to drag it by the title tab to a different section of 
 the user interface.
 
