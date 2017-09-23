@@ -1,5 +1,5 @@
 # Data types
-```Java
+```java
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  * An int (short for integer) can hold positive and negative whole numbers.
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
@@ -45,7 +45,7 @@ char thirdChar = '!';
 ```
 
 # Math operators
-```Java
+```java
 int y;
 y = 3 + 2; // + adds numbers
 y = 3 - 2; // - subtracts numbers
@@ -64,7 +64,7 @@ y = 3 % 2; // % finds the remainder of the division of two numbers.
 ```
 
 # Logical operators
-```Java
+```java
 boolean a;
 a = 3 == 2; // == compares two values, and returns true if they are equal.
             // DO NOT MIX THIS UP WITH =, WHICH ASSIGNS VALUES TO VARIABLES.
